@@ -1,0 +1,10 @@
+Things Accomplished:
+
+Created a task board with a laid out visual timeline with all tasks for the next three weeks.
+
+Finalized Milestone 2 along with project goals and visions.
+
+Conducted agile meeting for each group member.
+
+Downloaded Postgres and began coding in SQL.
+
