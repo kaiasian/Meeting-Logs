@@ -1,0 +1,7 @@
+11/15/2018 Meeting
+
+Problem:
+We met in the CSEL to discuss issues with our hardware platform the Arduino Uno R3. The Arduino Uno R3 lacks a Wi-Fi module which means inorder for hardware to send data to the web application we have to some how integrate a serial terminal application (RealTerm) and Excel into our application. This method is not ideal since it wouldn't we considered a singular application and writting a script to accomplish this would be difficult.
+
+Solution:
+We spent a hour discussing possible solutions to mitigate our hardware issue. It was then decided that we would implement a Raspberry Pi 3 B+ to accomplish our original project idea. The Raspberry Pi 3 B+ meets all of our hardware and software specifications. It has the capability to host a server and has the ability to run JSON, HTML, and Python code. It also allows for us to store a database direclty on the hardware itself. The majority of the team decided to continue working on the original project idea with the Raspberry Pi 3 B+ replacing the Arduino Uno R3.   
