@@ -1,0 +1,3 @@
+Meeting log 12-1-2018
+
+We have accomplished the RC car script for collision detection. We have successfully integrated the our sql databse with our server apache. We are close to completing our project. Basically, all we need to do now is run some tests, optimise the python scripts and make the front end look pretty.
