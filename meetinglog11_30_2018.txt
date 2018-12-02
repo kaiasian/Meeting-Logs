@@ -1,0 +1,1 @@
+We worked on setting up Angular with our python script to generate the back end of our project. We also talked about setting up a login page for the web app.
