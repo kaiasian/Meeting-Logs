@@ -1,0 +1,5 @@
+CSCI 3308
+12-06-2018
+Meeeting Log
+
+We met up to discuss and reherse our presentation. We also discussed who would present what slide. We also did some final touch ups on our front end and back end code. Additionally, we also discussed how we plan on implementing milestone 5.
